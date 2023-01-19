@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushtyagi1" alt="aayushtyagi1" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://aayushtyagi1.github.io/myblog/](https://aayushtyagi1.github.io/myblog/)
 
 - 💬 Ask me about **ReactJS, Data Structures, AI-ML Researches**
 
