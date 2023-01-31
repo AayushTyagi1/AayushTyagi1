@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aayush Tyagi, call me Kush</h1>
-<h3 align="center">A passionate Software Developer | Researcher | Data Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer | Researcher from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushtyagi1&label=Profile%20views&color=0e75b6&style=flat" alt="aayushtyagi1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushtyagi1" alt="aayushtyagi1" /></a> </p>
 
 
-- 💬 Ask me about **ReactJS, Data Structures, AI-ML Researches**
+- 💬 Ask me about **ReactJS, Data Structures, NodeJS, NestJS, TypeScript, AI-ML Researches**
 
-- 📫 How to reach me **tyagiaayush5@gmail.com**
 
 - ⚡ Fun fact **Internet users blink less than usual.**
 
